@@ -5,7 +5,7 @@ const Hero = () => {
     <header className='w-full flex justify-center items-center flex-col'>
         <nav className='flex justify-between items-center w-full mb-10 pt-3'>
             <img src={logo} alt="sumz_logos" className='w-28 object-contain' />
-            <button type='button' onClick={()=> window.open('https://github.com/ceasermikess002')} 
+            <button type='button' onClick={()=> window.open('https://github.com/ceasermikes002')} 
             className='black_btn '>
                 Github
             </button>
